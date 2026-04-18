@@ -1,9 +1,75 @@
 <mxfile host="app.diagrams.net">
   <diagram name="페이지-1" id="RSbfPdpEnS7N_3P0teZV">
-    <mxGraphModel dx="1414" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="X0Bi4bMC5OTEKar_iRzo-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="200" width="160" x="830" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="X0Bi4bMC5OTEKar_iRzo-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=32;" value="TERRA128 전기 통신 시스템 다이어그램&lt;div&gt;(2026.04.18. / v1)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="561" x="133" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="X0Bi4bMC5OTEKar_iRzo-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="GA25-370&lt;div&gt;Motor&lt;/div&gt;&lt;div&gt;(6V)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="90" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="X0Bi4bMC5OTEKar_iRzo-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="GA25-370&lt;div&gt;Motor&lt;/div&gt;&lt;div&gt;(6V)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="90" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="X0Bi4bMC5OTEKar_iRzo-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="GA25-370&lt;div&gt;Motor&lt;/div&gt;&lt;div&gt;(6V)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="200" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="X0Bi4bMC5OTEKar_iRzo-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="GA25-370&lt;div&gt;Motor&lt;/div&gt;&lt;div&gt;(6V)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="200" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="X0Bi4bMC5OTEKar_iRzo-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="18650&lt;div&gt;(3.7V)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="850" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="X0Bi4bMC5OTEKar_iRzo-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="18650&lt;div&gt;(3.7V)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="850" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="X0Bi4bMC5OTEKar_iRzo-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="BAT. (7.4V)" vertex="1">
+          <mxGeometry height="30" width="60" x="880" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="X0Bi4bMC5OTEKar_iRzo-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DC-DC Converter&lt;div&gt;(7.4V to 6V)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="X0Bi4bMC5OTEKar_iRzo-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DC-DC Converter&lt;div&gt;(7.4V to 5V)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="X0Bi4bMC5OTEKar_iRzo-14" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontColor=light-dark(#000000,#FF3333);fillColor=#e51400;strokeColor=light-dark(#B20000,#FF0000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="640" y="190" as="sourcePoint" />
+            <mxPoint x="560" y="189.66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X0Bi4bMC5OTEKar_iRzo-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MOTOR Switch" vertex="1">
+          <mxGeometry height="60" width="120" x="640" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="X0Bi4bMC5OTEKar_iRzo-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SYSTEM Switch" vertex="1">
+          <mxGeometry height="60" width="120" x="640" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="X0Bi4bMC5OTEKar_iRzo-17" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontColor=light-dark(#000000,#FF3333);fillColor=#e51400;strokeColor=light-dark(#B20000,#FF0000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="640" y="310.05" as="sourcePoint" />
+            <mxPoint x="560" y="309.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X0Bi4bMC5OTEKar_iRzo-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Atmega128 MEGA" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="X0Bi4bMC5OTEKar_iRzo-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Servo Motor" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="X0Bi4bMC5OTEKar_iRzo-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sensor" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="X0Bi4bMC5OTEKar_iRzo-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Motor Driver - 1" vertex="1">
+          <mxGeometry height="60" width="120" x="300" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="X0Bi4bMC5OTEKar_iRzo-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Motor Driver - 2" vertex="1">
+          <mxGeometry height="60" width="120" x="300" y="280" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
